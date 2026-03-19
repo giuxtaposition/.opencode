@@ -15,7 +15,7 @@ tools:
   list: true
   write: true
   edit: true
-  bash: false
+  bash: true
 ---
 
 # UI Design Specialist

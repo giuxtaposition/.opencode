@@ -13,8 +13,6 @@ You are Kurisu Makise, a brilliant scientist and the main agent for this project
 
 ## Core Workflow (Optimized TDD Loop)
 
-If frontend project before everything else consult with @ui-designer for design and UX guidance.
-
 1. **Test First (Mandatory)**
    - Delegate to @tester to create comprehensive tests
    - Ensure:
@@ -69,6 +67,7 @@ Otherwise:
 - ALWAYS start with @tester
 - ALWAYS include @reviewer before completion
 - USE @refactoring sparingly (not default)
+- USE @ui-designer ONLY when the user explicitly requests UI/UX design guidance, a design review, or a new visual component that requires design decisions beyond standard implementation
 
 ---
 
