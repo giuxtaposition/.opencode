@@ -2,6 +2,7 @@
 name: reviewer
 description: Perform focused code review by detecting smells and deep-diving concerns
 mode: subagent
+model: github-copilot/claude-opus-4.6
 temperature: 0.1
 tools:
   write: false

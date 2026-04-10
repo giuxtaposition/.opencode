@@ -2,6 +2,7 @@
 name: tester
 description: Write high-quality tests to validate functionality, edge cases, and non-functional requirements (performance, security, maintainability).
 mode: subagent
+model: github-copilot/claude-opus-4.6
 temperature: 0.1
 tools:
   write: true
